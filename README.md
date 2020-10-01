@@ -1,0 +1,2 @@
+# Analise_de_Sentimentos_Twitter
+Este projeto tem como objetivo verificar a importância da ciência de dados atualmente, para melhor compreensão ele foi dividido em duas partes, a parte 1 consiste em um código para coletarmos tweets e armazená-los em formato csv ou xlsx para posteriormente realizarmos manualmente a análise de sentimentos e com isso construirmos nosso dataset e a parte 2 onde iremos realizar a análise de sentimentos usando Apache Spark e PLN
